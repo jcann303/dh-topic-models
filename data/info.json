@@ -47,7 +47,7 @@
 
     ],
     "names": {
-        "1": "Studies",
+        "1": "University",
         "2": "History",
         "3": "Race",
         "4": "Gender",
@@ -62,16 +62,16 @@
         "13": "Studies",
         "14": "Art",
         "15": "Literature",
-        "16": "Topic 016",
-        "17": "Topic 017",
-        "18": "Topic 018",
-        "19": "Topic 019",
-        "20": "Topic 020",
-        "21": "Topic 021",
-        "22": "Topic 022",
-        "23": "Topic 023",
-        "24": "Topic 024",
-        "25": "Topic 025"
+        "16": "Law",
+        "17": "Data",
+        "18": "College",
+        "19": "Organization",
+        "20": "Economy",
+        "21": "Knowledge",
+        "22": "Education",
+        "23": "Ethnicity",
+        "24": "Media",
+        "25": "Production"
     }
 }
 
